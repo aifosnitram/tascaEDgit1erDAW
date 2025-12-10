@@ -1,6 +1,6 @@
 # Tasca de git i github per ED
 
-Nom: Sofia Martín Peñarroya
+Nom: Sofia Martín Peñarroya  
 Data: 26 nov 2025
 
 ## Descripció
